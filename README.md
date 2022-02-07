@@ -1,5 +1,5 @@
 # Ajax Load More Button
-How to create load more button on collection page in Shopify. 
+How to create load more button with AJAX on collection page in Shopify. 
 For collection pages a design may call for using a Load More button to ajax the next page of products onto the existing page, rather than using the traditional pagination provided by Shopify.
 
 ## Implementation
